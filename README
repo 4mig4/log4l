@@ -1,5 +1,8 @@
 log4l
 ==========
+https://github.com/4mig4/log4l
+
+(originally)
 https://mwchase.github.io/log4l/
 
 UNMAINTAINED: see https://github.com/doronbehar/lua-logger or other forks of lualogging.
@@ -8,6 +11,8 @@ Or fork them, or fork this, it's all good.
 log4l provides a simple API to use logging features in Lua.
 Its design was based on log4j. log4l currently supports,
 through the use of appenders, console, file, rolling file, email, socket and sql outputs.
+
+Supports Lua 5.1 to 5.4
 
 Current version is 1.3.0. It was developed for Lua 5.1 & 5.2.
 
