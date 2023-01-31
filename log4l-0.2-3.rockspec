@@ -3,7 +3,7 @@
 package = "log4l"
 version = "0.2-3"
 source  = {
-    url = "git://github.com/mwchase/log4l.git",
+    url = "https://github.com/4mig4/log4l.git",
     branch = "log4l-v0.2",
 }
 description = {
@@ -13,7 +13,7 @@ log4l provides a simple API to use logging features in Lua. Its design was
 based on log4j. log4l currently supports, through the use of appenders,
 console, file, rolling file, email, socket and SQL outputs.
 ]],
-    homepage    = "https://github.com/mwchase/log4l",
+    homepage    = "https://github.com/4mig4/log4l",
     license = "MIT/X11",
 }
 dependencies = {
