@@ -17,7 +17,7 @@ console, file, rolling file, email, socket and SQL outputs.
     license = "MIT/X11",
 }
 dependencies = {
-    "lua >= 5.1, < 5.4",
+    "lua >= 5.1, <= 5.4",
     "luasocket"
 }
 build   = {
